@@ -1,0 +1,13 @@
+{
+  "name": "kume_natsuya/shift-manager",
+  "authors": [
+    {
+      "name": "NatsuyaKume",
+      "email": "65702108+natsuya-kume@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.17"
+  },
+  "description": ""
+}
